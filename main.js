@@ -12,4 +12,4 @@ function fizzBuzz(N) {
     }
 }
 
-N = prompt('inserisci un numero:')
+fizzBuzz (100)
